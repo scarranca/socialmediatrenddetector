@@ -1,6 +1,5 @@
 # trend-detector
 
-[![CI](https://github.com/scarranca/socialmediatrenddetector/actions/workflows/ci.yml/badge.svg)](https://github.com/scarranca/socialmediatrenddetector/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Built with Apify](https://img.shields.io/badge/built%20with-Apify%20Actors-blue)](https://apify.com/store)
 

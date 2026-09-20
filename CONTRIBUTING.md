@@ -33,6 +33,6 @@ You only need `APIFY_TOKEN` / `ANTHROPIC_API_KEY` (see `.env.example`) to run th
 ## Pull requests
 
 - Keep PRs focused; describe what you ran to verify.
-- `npm test` and `npm run typecheck` must pass (CI runs both).
+- `npm test` and `npm run typecheck` must pass — run them locally before opening the PR.
 - Never commit `.env`, `config/profile.json`, or anything under `data/` / `output/`.
 - Found an Actor quirk (wrong enum, odd output)? Note it in a code comment next to the workaround and consider reporting it on the Actor's Issues tab.
