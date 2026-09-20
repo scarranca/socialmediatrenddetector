@@ -1,0 +1,34 @@
+{
+  "$comment": "Copy to config/profile.json and edit. `industry` + `keywords` + `hashtags` drive what gets scraped; everything else shapes the scripts.",
+
+  "name": "Your Name",
+  "handle": "@yourhandle",
+  "industry": "AI-powered invoicing & fintech for SMBs in Latin America",
+  "language": "es-MX",
+  "platforms": ["tiktok", "youtube", "instagram"],
+
+  "keywords": [
+    "facturacion electronica",
+    "fintech mexico",
+    "ai for small business",
+    "automatizar facturas"
+  ],
+  "hashtags": ["fintech", "facturacion", "emprendedores", "pymes"],
+
+  "competitorInstagramProfiles": [],
+
+  "audience": "Founders, accountants and ops leads at small/medium businesses in Mexico who hate manual invoicing and want to look modern.",
+  "positioning": "Founder building an AI-first fintech; candid, practical, slightly irreverent; shows real product and real numbers.",
+  "tone": "Direct, warm, no corporate jargon. Spanish with natural spanglish for tech terms.",
+  "offer": "Free trial of the product; newsletter for founders.",
+  "avoid": ["financial advice framed as guaranteed returns", "dancing", "trend audio with explicit lyrics"],
+
+  "formats": ["talking-head", "screen-recording + voiceover", "green-screen over a screenshot", "POV skit"],
+  "targetDurationSeconds": [20, 45],
+
+  "collection": {
+    "resultsPerQuery": 20,
+    "lookbackDays": 30,
+    "minViews": 2000
+  }
+}

@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "sample-001",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-001",
+    "caption": "POV: el SAT te manda una carta invitación y tú ni sabías que debías #sat #facturacion #pymes #contabilidad #fyp #parati",
+    "hashtags": [
+      "sat",
+      "facturacion",
+      "pymes",
+      "contabilidad",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_09",
+    "authorFollowers": 7200,
+    "publishedAt": "2026-08-31T13:53:49.000Z",
+    "durationSec": 66,
+    "views": 1026452,
+    "likes": 27164,
+    "comments": 2037,
+    "shares": 3056,
+    "saves": 1698,
+    "sound": {
+      "id": "orig0",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "automatizar facturas"
+  },
+  {
+    "id": "sample-002",
+    "platform": "instagram",
+    "url": "https://example.com/sample/instagram/sample-002",
+    "caption": "3 errores al facturar que te van a costar una multa (el #2 lo hace todo mundo) #talkinghead #facturacion #cfdi #sat #emprendedores",
+    "hashtags": [
+      "facturacion",
+      "cfdi",
+      "sat",
+      "emprendedores"
+    ],
+    "author": "sample_creator_11",
+    "authorFollowers": null,
+    "publishedAt": "2026-08-31T23:46:33.000Z",
+    "durationSec": 28,
+    "views": 508461,
+    "likes": 58579,
+    "comments": 4393,
+    "shares": 6590,
+    "saves": 0,
+    "sound": {
+      "id": "orig1",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-003",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-003",
+    "caption": "Nadie te dice esto de la facturación electrónica cuando abres tu negocio #tutorial #facturacion #emprendedores #pymes #cfdi",
+    "hashtags": [
+      "facturacion",
+      "emprendedores",
+      "pymes",
+      "cfdi"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-08-24T20:52:06.000Z",
+    "durationSec": 36,
+    "views": 6121,
+    "likes": 160,
+    "comments": 12,
+    "shares": 18,
+    "saves": 10,
+    "sound": {
+      "id": "orig2",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#fintech"
+  },
+  {
+    "id": "sample-004",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-004",
+    "caption": "Probé 5 apps de facturación con IA y solo una vale la pena #greenscreen #ai #facturacion #fintech #apps #fyp",
+    "hashtags": [
+      "ai",
+      "facturacion",
+      "fintech",
+      "apps",
+      "fyp"
+    ],
+    "author": "sample_creator_02",
+    "authorFollowers": 55000,
+    "publishedAt": "2026-08-28T09:10:40.000Z",
+    "durationSec": 61,
+    "views": 23091,
+    "likes": 771,
+    "comments": 58,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#fintech"
+  },
+  {
+    "id": "sample-005",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-005",
+    "caption": "Así automaticé TODAS mis facturas con IA en 10 minutos (tutorial) #pov #ai #automatizacion #facturacion #fintech #fyp",
+    "hashtags": [
+      "ai",
+      "automatizacion",
+      "facturacion",
+      "fintech",
+      "fyp"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-09-12T07:43:04.000Z",
+    "durationSec": 67,
+    "views": 241986,
+    "likes": 12265,
+    "comments": 920,
+    "shares": 1380,
+    "saves": 767,
+    "sound": {
+      "id": "orig4",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#fintech"
+  },
+  {
+    "id": "sample-006",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-006",
+    "caption": "Si tu contador te dice esto, cámbialo YA #contabilidad #pymes #emprendedores #sat",
+    "hashtags": [
+      "contabilidad",
+      "pymes",
+      "emprendedores",
+      "sat"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-09-15T05:11:07.000Z",
+    "durationSec": 19,
+    "views": 24576,
+    "likes": 2764,
+    "comments": 207,
+    "shares": 311,
+    "saves": 173,
+    "sound": {
+      "id": "orig5",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#fintech"
+  },
+  {
+    "id": "sample-007",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-007",
+    "caption": "Lo que cobra un contador vs lo que hace la IA en 2026 #talkinghead #ai #contabilidad #fintech #pymes #fyp",
+    "hashtags": [
+      "ai",
+      "contabilidad",
+      "fintech",
+      "pymes",
+      "fyp"
+    ],
+    "author": "sample_creator_06",
+    "authorFollowers": 18500,
+    "publishedAt": "2026-08-30T17:50:43.000Z",
+    "durationSec": 56,
+    "views": 10318,
+    "likes": 455,
+    "comments": 34,
+    "shares": 51,
+    "saves": 28,
+    "sound": {
+      "id": "orig6",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#emprendedores"
+  },
+  {
+    "id": "sample-008",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-008",
+    "caption": "Mi cliente me pidió factura a las 11:58pm del último día del mes 😭 #tutorial #facturacion #cfdi #storytime #pymes #fyp",
+    "hashtags": [
+      "facturacion",
+      "cfdi",
+      "storytime",
+      "pymes",
+      "fyp"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-09-15T10:17:00.000Z",
+    "durationSec": 64,
+    "views": 123562,
+    "likes": 14683,
+    "comments": 1101,
+    "shares": 1652,
+    "saves": 918,
+    "sound": {
+      "id": "7401122334455",
+      "name": "oh no oh no oh no no no",
+      "isOriginal": false
+    },
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-009",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-009",
+    "caption": "Fintech founder reacting to how small businesses in Mexico still do invoicing #greenscreen #fintech #ai #smallbusiness #mexico #parati",
+    "hashtags": [
+      "fintech",
+      "ai",
+      "smallbusiness",
+      "mexico",
+      "parati"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-09-07T06:07:53.000Z",
+    "durationSec": 37,
+    "views": 1277756,
+    "likes": 133822,
+    "comments": 10037,
+    "shares": 15055,
+    "saves": 8364,
+    "sound": {
+      "id": "7432211009988",
+      "name": "Suspense Drama Ident",
+      "isOriginal": false
+    },
+    "matchedQuery": "facturacion electronica"
+  },
+  {
+    "id": "sample-010",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-010",
+    "caption": "Day in the life: fundadora fintech en CDMX (la parte que no sale en LinkedIn) #pov #fintech #emprendedores #dayinthelife #startup",
+    "hashtags": [
+      "fintech",
+      "emprendedores",
+      "dayinthelife",
+      "startup"
+    ],
+    "author": "sample_creator_11",
+    "authorFollowers": 4100,
+    "publishedAt": "2026-09-04T02:42:14.000Z",
+    "durationSec": 71,
+    "views": 1505672,
+    "likes": 137423,
+    "comments": 10307,
+    "shares": 15460,
+    "saves": 8589,
+    "sound": {
+      "id": "7418899001122",
+      "name": "Aesthetic (Sped Up)",
+      "isOriginal": false
+    },
+    "matchedQuery": "fintech mexico"
+  },
+  {
+    "id": "sample-011",
+    "platform": "instagram",
+    "url": "https://example.com/sample/instagram/sample-011",
+    "caption": "Cuánto dinero pierdes al mes por facturar tarde (hice las cuentas) #pymes #facturacion #finanzas #emprendedores",
+    "hashtags": [
+      "pymes",
+      "facturacion",
+      "finanzas",
+      "emprendedores"
+    ],
+    "author": "sample_creator_08",
+    "authorFollowers": 148000,
+    "publishedAt": "2026-08-31T20:16:30.000Z",
+    "durationSec": 64,
+    "views": 8850,
+    "likes": 429,
+    "comments": 32,
+    "shares": 48,
+    "saves": 0,
+    "sound": {
+      "id": "orig10",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "ai for small business"
+  },
+  {
+    "id": "sample-012",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-012",
+    "caption": "El truco del complemento de pago que nadie te explica #talkinghead #cfdi #sat #facturacion #contabilidad #parati",
+    "hashtags": [
+      "cfdi",
+      "sat",
+      "facturacion",
+      "contabilidad",
+      "parati"
+    ],
+    "author": "sample_creator_05",
+    "authorFollowers": 810000,
+    "publishedAt": "2026-09-16T23:12:26.000Z",
+    "durationSec": 31,
+    "views": 2416215,
+    "likes": 235748,
+    "comments": 17681,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#facturacion"
+  },
+  {
+    "id": "sample-013",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-013",
+    "caption": "Green screen: explicando la carta porte como si tuvieras 5 años #tutorial #sat #cfdi #greenscreen #pymes",
+    "hashtags": [
+      "sat",
+      "cfdi",
+      "greenscreen",
+      "pymes"
+    ],
+    "author": "sample_creator_02",
+    "authorFollowers": 55000,
+    "publishedAt": "2026-09-10T19:35:11.000Z",
+    "durationSec": 46,
+    "views": 25231,
+    "likes": 689,
+    "comments": 52,
+    "shares": 77,
+    "saves": 43,
+    "sound": {
+      "id": "orig12",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-014",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-014",
+    "caption": "Respondiendo a 'la IA me va a quitar el trabajo de contador' #greenscreen #ai #contabilidad #fintech #opinion #fyp",
+    "hashtags": [
+      "ai",
+      "contabilidad",
+      "fintech",
+      "opinion",
+      "fyp"
+    ],
+    "author": "sample_creator_08",
+    "authorFollowers": 148000,
+    "publishedAt": "2026-08-26T11:27:55.000Z",
+    "durationSec": 72,
+    "views": 1507291,
+    "likes": 125289,
+    "comments": 9397,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "automatizar facturas"
+  },
+  {
+    "id": "sample-015",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-015",
+    "caption": "Stop doing this if you run a small business in LATAM #pov #smallbusiness #fintech #latam #pymes #fyp #parati",
+    "hashtags": [
+      "smallbusiness",
+      "fintech",
+      "latam",
+      "pymes",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-09-01T09:36:06.000Z",
+    "durationSec": 28,
+    "views": 1392173,
+    "likes": 112209,
+    "comments": 8416,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "ai for small business"
+  },
+  {
+    "id": "sample-016",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-016",
+    "caption": "Le enseñé a mi papá (60 años, ferretería) a facturar con IA #ai #facturacion #pymes #familia #parati",
+    "hashtags": [
+      "ai",
+      "facturacion",
+      "pymes",
+      "familia",
+      "parati"
+    ],
+    "author": "sample_creator_05",
+    "authorFollowers": 810000,
+    "publishedAt": "2026-08-19T16:23:48.000Z",
+    "durationSec": 47,
+    "views": 390313,
+    "likes": 22908,
+    "comments": 1718,
+    "shares": 2577,
+    "saves": 1432,
+    "sound": {
+      "id": "orig15",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#facturacion"
+  },
+  {
+    "id": "sample-017",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-017",
+    "caption": "Ranking de bancos para pymes en México: del peor al mejor #talkinghead #fintech #pymes #bancos #finanzas #fyp",
+    "hashtags": [
+      "fintech",
+      "pymes",
+      "bancos",
+      "finanzas",
+      "fyp"
+    ],
+    "author": "sample_creator_02",
+    "authorFollowers": 55000,
+    "publishedAt": "2026-09-09T18:42:11.000Z",
+    "durationSec": 53,
+    "views": 713498,
+    "likes": 24197,
+    "comments": 1815,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#emprendedores"
+  },
+  {
+    "id": "sample-018",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-018",
+    "caption": "Cosas que aprendí en mi primer año emitiendo facturas como freelancer #tutorial #freelance #facturacion #sat #emprendedores",
+    "hashtags": [
+      "freelance",
+      "facturacion",
+      "sat",
+      "emprendedores"
+    ],
+    "author": "sample_creator_09",
+    "authorFollowers": 7200,
+    "publishedAt": "2026-09-06T05:55:35.000Z",
+    "durationSec": 63,
+    "views": 7461,
+    "likes": 554,
+    "comments": 42,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-019",
+    "platform": "instagram",
+    "url": "https://example.com/sample/instagram/sample-019",
+    "caption": "Antes vs después de automatizar cobranza (los números reales) #greenscreen #automatizacion #fintech #pymes #cobranza #fyp",
+    "hashtags": [
+      "automatizacion",
+      "fintech",
+      "pymes",
+      "cobranza",
+      "fyp"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": null,
+    "publishedAt": "2026-09-14T03:24:35.000Z",
+    "durationSec": 74,
+    "views": 7033,
+    "likes": 640,
+    "comments": 48,
+    "shares": 72,
+    "saves": 0,
+    "sound": {
+      "id": "7455566677788",
+      "name": "corporate lofi beat",
+      "isOriginal": false
+    },
+    "matchedQuery": "#facturacion"
+  },
+  {
+    "id": "sample-020",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-020",
+    "caption": "Te leo la multa del SAT que le llegó a mi cliente por no facturar a tiempo #pov #sat #multas #facturacion #contabilidad #fyp",
+    "hashtags": [
+      "sat",
+      "multas",
+      "facturacion",
+      "contabilidad",
+      "fyp"
+    ],
+    "author": "sample_creator_11",
+    "authorFollowers": 4100,
+    "publishedAt": "2026-09-03T18:57:13.000Z",
+    "durationSec": 19,
+    "views": 7858,
+    "likes": 298,
+    "comments": 22,
+    "shares": 34,
+    "saves": 19,
+    "sound": {
+      "id": "orig19",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "fintech mexico"
+  },
+  {
+    "id": "sample-021",
+    "platform": "instagram",
+    "url": "https://example.com/sample/instagram/sample-021",
+    "caption": "POV: el SAT te manda una carta invitación y tú ni sabías que debías #sat #facturacion #pymes #contabilidad",
+    "hashtags": [
+      "sat",
+      "facturacion",
+      "pymes",
+      "contabilidad"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-08-22T19:04:06.000Z",
+    "durationSec": 60,
+    "views": 6182,
+    "likes": 552,
+    "comments": 41,
+    "shares": 62,
+    "saves": 0,
+    "sound": {
+      "id": "orig20",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "automatizar facturas"
+  },
+  {
+    "id": "sample-022",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-022",
+    "caption": "3 errores al facturar que te van a costar una multa (el #2 lo hace todo mundo) #talkinghead #facturacion #cfdi #sat #emprendedores #fyp #parati",
+    "hashtags": [
+      "facturacion",
+      "cfdi",
+      "sat",
+      "emprendedores",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-09-03T20:46:28.000Z",
+    "durationSec": 26,
+    "views": 6481,
+    "likes": 252,
+    "comments": 19,
+    "shares": 28,
+    "saves": 16,
+    "sound": {
+      "id": "orig21",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "fintech mexico"
+  },
+  {
+    "id": "sample-023",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-023",
+    "caption": "Nadie te dice esto de la facturación electrónica cuando abres tu negocio #tutorial #facturacion #emprendedores #pymes #cfdi #fyp",
+    "hashtags": [
+      "facturacion",
+      "emprendedores",
+      "pymes",
+      "cfdi",
+      "fyp"
+    ],
+    "author": "sample_creator_06",
+    "authorFollowers": 18500,
+    "publishedAt": "2026-08-20T06:15:44.000Z",
+    "durationSec": 40,
+    "views": 9818,
+    "likes": 352,
+    "comments": 26,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#fintech"
+  },
+  {
+    "id": "sample-024",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-024",
+    "caption": "Probé 5 apps de facturación con IA y solo una vale la pena #greenscreen #ai #facturacion #fintech #apps #fyp",
+    "hashtags": [
+      "ai",
+      "facturacion",
+      "fintech",
+      "apps",
+      "fyp"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-09-10T07:54:50.000Z",
+    "durationSec": 31,
+    "views": 2333272,
+    "likes": 226937,
+    "comments": 17020,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "ai for small business"
+  },
+  {
+    "id": "sample-025",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-025",
+    "caption": "Así automaticé TODAS mis facturas con IA en 10 minutos (tutorial) #pov #ai #automatizacion #facturacion #fintech #parati",
+    "hashtags": [
+      "ai",
+      "automatizacion",
+      "facturacion",
+      "fintech",
+      "parati"
+    ],
+    "author": "sample_creator_08",
+    "authorFollowers": 148000,
+    "publishedAt": "2026-09-04T20:35:34.000Z",
+    "durationSec": 17,
+    "views": 1978231,
+    "likes": 130423,
+    "comments": 9782,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#facturacion"
+  },
+  {
+    "id": "sample-026",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-026",
+    "caption": "Si tu contador te dice esto, cámbialo YA #contabilidad #pymes #emprendedores #sat #fyp #parati",
+    "hashtags": [
+      "contabilidad",
+      "pymes",
+      "emprendedores",
+      "sat",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_09",
+    "authorFollowers": 7200,
+    "publishedAt": "2026-08-24T08:03:36.000Z",
+    "durationSec": 36,
+    "views": 6122,
+    "likes": 630,
+    "comments": 47,
+    "shares": 71,
+    "saves": 39,
+    "sound": {
+      "id": "orig25",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-027",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-027",
+    "caption": "Lo que cobra un contador vs lo que hace la IA en 2026 #talkinghead #ai #contabilidad #fintech #pymes",
+    "hashtags": [
+      "ai",
+      "contabilidad",
+      "fintech",
+      "pymes"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-09-03T06:47:23.000Z",
+    "durationSec": 36,
+    "views": 6392,
+    "likes": 191,
+    "comments": 14,
+    "shares": 22,
+    "saves": 12,
+    "sound": {
+      "id": "orig26",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-028",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-028",
+    "caption": "Mi cliente me pidió factura a las 11:58pm del último día del mes 😭 #tutorial #facturacion #cfdi #storytime #pymes",
+    "hashtags": [
+      "facturacion",
+      "cfdi",
+      "storytime",
+      "pymes"
+    ],
+    "author": "sample_creator_11",
+    "authorFollowers": 4100,
+    "publishedAt": "2026-08-21T23:48:47.000Z",
+    "durationSec": 17,
+    "views": 7325,
+    "likes": 631,
+    "comments": 47,
+    "shares": 71,
+    "saves": 39,
+    "sound": {
+      "id": "7455566677788",
+      "name": "corporate lofi beat",
+      "isOriginal": false
+    },
+    "matchedQuery": "facturacion electronica"
+  },
+  {
+    "id": "sample-029",
+    "platform": "instagram",
+    "url": "https://example.com/sample/instagram/sample-029",
+    "caption": "Fintech founder reacting to how small businesses in Mexico still do invoicing #greenscreen #fintech #ai #smallbusiness #mexico #fyp #parati",
+    "hashtags": [
+      "fintech",
+      "ai",
+      "smallbusiness",
+      "mexico",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_02",
+    "authorFollowers": null,
+    "publishedAt": "2026-08-30T07:06:32.000Z",
+    "durationSec": 14,
+    "views": 23112,
+    "likes": 2235,
+    "comments": 168,
+    "shares": 251,
+    "saves": 0,
+    "sound": {
+      "id": "7432211009988",
+      "name": "Suspense Drama Ident",
+      "isOriginal": false
+    },
+    "matchedQuery": "facturacion electronica"
+  },
+  {
+    "id": "sample-030",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-030",
+    "caption": "Day in the life: fundadora fintech en CDMX (la parte que no sale en LinkedIn) #pov #fintech #emprendedores #dayinthelife #startup",
+    "hashtags": [
+      "fintech",
+      "emprendedores",
+      "dayinthelife",
+      "startup"
+    ],
+    "author": "sample_creator_10",
+    "authorFollowers": 2600,
+    "publishedAt": "2026-09-04T08:28:55.000Z",
+    "durationSec": 45,
+    "views": 7660,
+    "likes": 472,
+    "comments": 35,
+    "shares": 53,
+    "saves": 30,
+    "sound": {
+      "id": "7432211009988",
+      "name": "Suspense Drama Ident",
+      "isOriginal": false
+    },
+    "matchedQuery": "fintech mexico"
+  },
+  {
+    "id": "sample-031",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-031",
+    "caption": "Cuánto dinero pierdes al mes por facturar tarde (hice las cuentas) #pymes #facturacion #finanzas #emprendedores",
+    "hashtags": [
+      "pymes",
+      "facturacion",
+      "finanzas",
+      "emprendedores"
+    ],
+    "author": "sample_creator_01",
+    "authorFollowers": 12400,
+    "publishedAt": "2026-08-19T16:07:59.000Z",
+    "durationSec": 49,
+    "views": 9028,
+    "likes": 1079,
+    "comments": 81,
+    "shares": 121,
+    "saves": 67,
+    "sound": {
+      "id": "7418899001122",
+      "name": "Aesthetic (Sped Up)",
+      "isOriginal": false
+    },
+    "matchedQuery": "fintech mexico"
+  },
+  {
+    "id": "sample-032",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-032",
+    "caption": "El truco del complemento de pago que nadie te explica #talkinghead #cfdi #sat #facturacion #contabilidad",
+    "hashtags": [
+      "cfdi",
+      "sat",
+      "facturacion",
+      "contabilidad"
+    ],
+    "author": "sample_creator_05",
+    "authorFollowers": 810000,
+    "publishedAt": "2026-08-19T21:12:09.000Z",
+    "durationSec": 23,
+    "views": 2426235,
+    "likes": 222896,
+    "comments": 16717,
+    "shares": 25076,
+    "saves": 13931,
+    "sound": {
+      "id": "orig31",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#emprendedores"
+  },
+  {
+    "id": "sample-033",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-033",
+    "caption": "Green screen: explicando la carta porte como si tuvieras 5 años #tutorial #sat #cfdi #greenscreen #pymes #parati",
+    "hashtags": [
+      "sat",
+      "cfdi",
+      "greenscreen",
+      "pymes",
+      "parati"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-08-22T19:34:40.000Z",
+    "durationSec": 24,
+    "views": 129111,
+    "likes": 6735,
+    "comments": 505,
+    "shares": 758,
+    "saves": 421,
+    "sound": {
+      "id": "7401122334455",
+      "name": "oh no oh no oh no no no",
+      "isOriginal": false
+    },
+    "matchedQuery": "#emprendedores"
+  },
+  {
+    "id": "sample-034",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-034",
+    "caption": "Respondiendo a 'la IA me va a quitar el trabajo de contador' #greenscreen #ai #contabilidad #fintech #opinion",
+    "hashtags": [
+      "ai",
+      "contabilidad",
+      "fintech",
+      "opinion"
+    ],
+    "author": "sample_creator_01",
+    "authorFollowers": 12400,
+    "publishedAt": "2026-08-28T04:34:02.000Z",
+    "durationSec": 36,
+    "views": 307385,
+    "likes": 23788,
+    "comments": 1784,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#pymes"
+  },
+  {
+    "id": "sample-035",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-035",
+    "caption": "Stop doing this if you run a small business in LATAM #pov #smallbusiness #fintech #latam #pymes #fyp",
+    "hashtags": [
+      "smallbusiness",
+      "fintech",
+      "latam",
+      "pymes",
+      "fyp"
+    ],
+    "author": "sample_creator_09",
+    "authorFollowers": 7200,
+    "publishedAt": "2026-09-11T18:31:18.000Z",
+    "durationSec": 31,
+    "views": 6602,
+    "likes": 360,
+    "comments": 27,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#facturacion"
+  },
+  {
+    "id": "sample-036",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-036",
+    "caption": "Le enseñé a mi papá (60 años, ferretería) a facturar con IA #ai #facturacion #pymes #familia",
+    "hashtags": [
+      "ai",
+      "facturacion",
+      "pymes",
+      "familia"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-09-17T09:06:55.000Z",
+    "durationSec": 38,
+    "views": 100433,
+    "likes": 6815,
+    "comments": 511,
+    "shares": 767,
+    "saves": 426,
+    "sound": {
+      "id": "orig35",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "automatizar facturas"
+  },
+  {
+    "id": "sample-037",
+    "platform": "instagram",
+    "url": "https://example.com/sample/instagram/sample-037",
+    "caption": "Ranking de bancos para pymes en México: del peor al mejor #talkinghead #fintech #pymes #bancos #finanzas #fyp #parati",
+    "hashtags": [
+      "fintech",
+      "pymes",
+      "bancos",
+      "finanzas",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_04",
+    "authorFollowers": null,
+    "publishedAt": "2026-09-08T16:18:47.000Z",
+    "durationSec": 58,
+    "views": 29982,
+    "likes": 2442,
+    "comments": 183,
+    "shares": 275,
+    "saves": 0,
+    "sound": {
+      "id": "orig36",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "#facturacion"
+  },
+  {
+    "id": "sample-038",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-038",
+    "caption": "Cosas que aprendí en mi primer año emitiendo facturas como freelancer #tutorial #freelance #facturacion #sat #emprendedores #fyp #parati",
+    "hashtags": [
+      "freelance",
+      "facturacion",
+      "sat",
+      "emprendedores",
+      "fyp",
+      "parati"
+    ],
+    "author": "sample_creator_03",
+    "authorFollowers": 233000,
+    "publishedAt": "2026-09-16T23:19:25.000Z",
+    "durationSec": 33,
+    "views": 2022539,
+    "likes": 132533,
+    "comments": 9940,
+    "shares": 14910,
+    "saves": 8283,
+    "sound": {
+      "id": "orig37",
+      "name": "original sound",
+      "isOriginal": true
+    },
+    "matchedQuery": "facturacion electronica"
+  },
+  {
+    "id": "sample-039",
+    "platform": "tiktok",
+    "url": "https://example.com/sample/tiktok/sample-039",
+    "caption": "Antes vs después de automatizar cobranza (los números reales) #greenscreen #automatizacion #fintech #pymes #cobranza #fyp",
+    "hashtags": [
+      "automatizacion",
+      "fintech",
+      "pymes",
+      "cobranza",
+      "fyp"
+    ],
+    "author": "sample_creator_07",
+    "authorFollowers": 31000,
+    "publishedAt": "2026-08-19T21:55:03.000Z",
+    "durationSec": 56,
+    "views": 22662,
+    "likes": 2229,
+    "comments": 167,
+    "shares": 251,
+    "saves": 139,
+    "sound": {
+      "id": "7432211009988",
+      "name": "Suspense Drama Ident",
+      "isOriginal": false
+    },
+    "matchedQuery": "automatizar facturas"
+  },
+  {
+    "id": "sample-040",
+    "platform": "youtube",
+    "url": "https://example.com/sample/youtube/sample-040",
+    "caption": "Te leo la multa del SAT que le llegó a mi cliente por no facturar a tiempo #pov #sat #multas #facturacion #contabilidad #fyp",
+    "hashtags": [
+      "sat",
+      "multas",
+      "facturacion",
+      "contabilidad",
+      "fyp"
+    ],
+    "author": "sample_creator_04",
+    "authorFollowers": 96000,
+    "publishedAt": "2026-08-31T16:54:52.000Z",
+    "durationSec": 68,
+    "views": 71083,
+    "likes": 3837,
+    "comments": 288,
+    "shares": 0,
+    "saves": 0,
+    "sound": null,
+    "matchedQuery": "#fintech"
+  }
+]

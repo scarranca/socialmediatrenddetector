@@ -1,0 +1,52 @@
+{
+  "name": "trend-detector",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Find trending short-form videos in your industry via Apify, then generate on-trend scripts tailored to your profile with Claude.",
+  "keywords": [
+    "apify",
+    "apify-actors",
+    "claude",
+    "anthropic",
+    "tiktok",
+    "youtube-shorts",
+    "instagram-reels",
+    "content-marketing",
+    "trend-detection",
+    "short-form-video"
+  ],
+  "license": "MIT",
+  "author": "Santiago Carrancá",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarranca/socialmediatrenddetector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scarranca/socialmediatrenddetector/issues"
+  },
+  "homepage": "https://github.com/scarranca/socialmediatrenddetector#readme",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "collect": "tsx --env-file-if-exists=.env src/index.ts collect",
+    "analyze": "tsx --env-file-if-exists=.env src/index.ts analyze",
+    "scripts": "tsx --env-file-if-exists=.env src/index.ts scripts",
+    "run": "tsx --env-file-if-exists=.env src/index.ts run",
+    "sample": "tsx --env-file-if-exists=.env src/index.ts run --sample",
+    "typecheck": "tsc --noEmit",
+    "ui": "tsx --env-file-if-exists=.env src/serve.ts",
+    "test": "tsx --test test/*.test.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.127.0",
+    "apify-client": "^2.25.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,401 @@
+[
+  {
+    "trendName": "Deadline Panic Explainer",
+    "title": "CFDI 4.0 y el nuevo control: lo que cambia para tu empresa",
+    "platform": "all",
+    "format": "green-screen over a screenshot (portal del SAT / comunicado oficial)",
+    "durationSec": 40,
+    "hook": "Si emites facturas como persona moral en México, a partir del próximo cierre fiscal tienes que timbrar con tus datos 100% alineados al SAT — te lo explico en 40 segundos.",
+    "beats": [
+      {
+        "t": "0-5s",
+        "say": "Si emites facturas como persona moral en México, a partir del próximo cierre fiscal tienes que timbrar con tus datos 100% alineados al SAT — te lo explico en 40 segundos.",
+        "show": "Green-screen: yo de medio cuerpo encima de un screenshot del portal del SAT con la sección de CFDI 4.0 visible. Texto en pantalla: 'CFDI 4.0 — sin margen de error'."
+      },
+      {
+        "t": "5-13s",
+        "say": "Punto uno: nombre, régimen fiscal y código postal del receptor tienen que coincidir exacto con su Constancia de Situación Fiscal. Una letra distinta y el timbrado se cae.",
+        "show": "Señalo con el dedo el campo 'Régimen fiscal' del screenshot. Zoom digital al campo. Texto: 'Coincidencia exacta o rechazo'."
+      },
+      {
+        "t": "13-22s",
+        "say": "Punto dos: el uso de CFDI lo define tu cliente, no tú. Si lo adivinas, te lo cancelan y vuelves a empezar el mes que viene.",
+        "show": "Cambio el screenshot al catálogo de 'Uso de CFDI'. Marco con círculo rojo dibujado en pantalla. Texto: 'Lo decide el cliente'."
+      },
+      {
+        "t": "22-31s",
+        "say": "Punto tres: la cancelación ya pide motivo y folio sustituto. Cancelar 'porque sí' se acabó, y las facturas viejas te pueden trabar el cierre.",
+        "show": "Screenshot del formulario de cancelación con los motivos. Yo encogiendo los hombros en green-screen. Texto: 'Motivo + folio sustituto'."
+      },
+      {
+        "t": "31-40s",
+        "say": "Nosotros hicimos que la IA valide los tres puntos antes de timbrar: si algo no cuadra, te avisa en vez de rebotarte. Pruébalo gratis, el link está en mi perfil, y si te sirvió esto, en mi newsletter para founders explico cada cambio del SAT sin palabrería.",
+        "show": "Corte a screen recording de 3 segundos: el sistema marca un dato en rojo y luego timbra en verde. Cierro con mi cara a cámara. Texto: 'Prueba gratis — link en bio'."
+      }
+    ],
+    "cta": "Pruébalo gratis desde el link en mi perfil y suscríbete al newsletter para founders.",
+    "caption": "CFDI 4.0: tres cosas que tumban tu timbrado y que casi nadie revisa antes de facturar. Datos exactos del receptor, uso de CFDI definido por el cliente y cancelación con motivo y folio sustituto. Te dejo la prueba gratis en el perfil, y en el newsletter desmenuzo cada cambio del SAT en español normal. ¿Cuál de los tres te ha rebotado más?",
+    "hashtags": [
+      "#factura",
+      "#facturacionelectronica",
+      "#SAT",
+      "#CFDI",
+      "#finanzasmexico",
+      "#pymesmexico",
+      "#pagosdigitales"
+    ],
+    "soundSuggestion": "original sound (voz del creador)",
+    "whyThisWorks": "Copia la estructura que hizo volar a creator_51 y creator_120: fecha, a quién le pega y la obligación concreta, sin intro ni branding. El green-screen sobre el portal del SAT le da la misma credibilidad documental que las versiones de e-invoicing en YouTube, que siguen recibiendo búsquedas meses después."
+  },
+  {
+    "trendName": "Deadline Panic Explainer",
+    "title": "POV: te enteras del cambio de facturación el día del cierre",
+    "platform": "all",
+    "format": "POV skit + screen-recording",
+    "durationSec": 32,
+    "hook": "Si eres el que factura en tu empresa y te enteras del cambio el último día del mes, esto te va a doler — te lo explico en 30 segundos.",
+    "beats": [
+      {
+        "t": "0-4s",
+        "say": "Si eres el que factura en tu empresa y te enteras del cambio el último día del mes, esto te va a doler — te lo explico en 30 segundos.",
+        "show": "POV: teléfono apoyado frente a la laptop, yo con audífonos colgando y cara de fin de mes. Texto en pantalla: 'Día 31, 8:40 pm'."
+      },
+      {
+        "t": "4-12s",
+        "say": "Escena uno: el cliente te pide la factura a las ocho de la noche y te manda su constancia en foto borrosa. Tú capturas el régimen fiscal a ojo. Rebote.",
+        "show": "Sostengo el celular con una foto borrosa de un documento, tecleo rápido y hago cara de derrota. Insert de screen recording con un error de timbrado en rojo."
+      },
+      {
+        "t": "12-20s",
+        "say": "Escena dos: lo arreglas, timbras... y era el uso de CFDI equivocado. Ahora toca cancelar con motivo, folio sustituto y volver a emitir. Van dos horas.",
+        "show": "Corte a mí con café frío y la misma playera, reloj en pantalla marcando 10:20 pm. Texto: '2 horas después'."
+      },
+      {
+        "t": "20-27s",
+        "say": "Escena tres: lo que yo hago hoy. Subo la constancia, la IA lee los datos, valida contra el catálogo del SAT y me avisa antes de timbrar, no después.",
+        "show": "Screen recording real: arrastro un PDF de constancia, se autocompletan los campos y aparece una alerta amarilla que corrijo en un clic."
+      },
+      {
+        "t": "27-32s",
+        "say": "Si tu cierre de mes se ve como la escena uno, prueba gratis el producto con el link de mi perfil. Y en mi newsletter para founders te aviso de cada cambio del SAT antes de que te agarre en la fecha límite.",
+        "show": "Yo a cámara, ya relajado, cerrando la laptop. Texto: 'Prueba gratis + newsletter — link en bio'."
+      }
+    ],
+    "cta": "Empieza la prueba gratis desde el link en mi perfil y únete al newsletter para founders.",
+    "caption": "POV: son las 8 de la noche del día 31 y tu cliente apenas te manda la constancia en foto borrosa. Entre datos que no coinciden, uso de CFDI equivocado y cancelaciones con folio sustituto, el cierre se te va en horas. Así lo resolvemos con IA: lee la constancia, valida contra el SAT y te avisa ANTES de timbrar. Prueba gratis en el perfil. Cuéntame tu peor cierre de mes 👇",
+    "hashtags": [
+      "#factura",
+      "#facturacionelectronica",
+      "#CFDI",
+      "#finanzasmexico",
+      "#pymesmexico",
+      "#contadores",
+      "#mexico"
+    ],
+    "soundSuggestion": "original sound (voz del creador)",
+    "whyThisWorks": "Mantiene el gancho de fecha-límite que dispara el interés en estos videos, pero lo vuelve escena para no repetir el mismo talking-head del primer script. Igual que en los casos de e-invoicing en FR y CO, el valor está en mostrar la obligación concreta y la salida práctica, no en el branding."
+  },
+  {
+    "trendName": "Numbered AI Stack Drop",
+    "title": "4 cosas que tu contador ya no debería hacer a mano",
+    "platform": "tiktok",
+    "format": "screen-recording + voiceover con overlays numerados",
+    "durationSec": 42,
+    "hook": "4 cosas que puedes automatizar en tu facturación este fin de semana —sin cambiar de contador.",
+    "beats": [
+      {
+        "t": "0-3s",
+        "say": "4 cosas que puedes automatizar en tu facturación este fin de semana —sin cambiar de contador.",
+        "show": "Screen recording del dashboard abriéndose en la laptop, grabado con el celular en trípode a 45°. Texto grande en pantalla: \"4 COSAS · FACTURACIÓN AUTOMÁTICA\"."
+      },
+      {
+        "t": "3-11s",
+        "say": "Uno: capturar datos del cliente. Le avientas el PDF o la foto del ticket y la IA saca RFC, régimen fiscal y uso de CFDI sola. Cero tecleo.",
+        "show": "Screen recording: arrastro un PDF a la app, se autollenan los campos uno por uno. Overlay: \"1. Adiós a teclear RFCs\". Zoom digital al campo que se llena solo."
+      },
+      {
+        "t": "11-19s",
+        "say": "Dos: cobrar. En vez de mandar el \"¿ya viste mi factura?\", la IA manda el recordatorio a los 3, 7 y 15 días con tono amable pero firme.",
+        "show": "Screen recording del editor de recordatorios; luego corto a mi celular mostrando el WhatsApp con el mensaje automático. Overlay: \"2. El cobro que te da pena mandar\"."
+      },
+      {
+        "t": "19-28s",
+        "say": "Tres: conciliar. Entra el pago al banco y se cruza solo contra la factura abierta. Yo el mes pasado conciliaba 60 pagos en una tarde; ahora reviso 4 casos raros.",
+        "show": "Screen recording: lista de pagos con palomitas verdes apareciendo en cascada, y 4 filas en amarillo. Overlay: \"3. Conciliación: de 60 a 4\"."
+      },
+      {
+        "t": "28-36s",
+        "say": "Cuatro: el reporte para tu contador. Un botón, un ZIP con todos los XML y PDF del mes ordenados. Se lo mandas y ya.",
+        "show": "Screen recording: clic en \"Exportar mes\", barra de progreso, carpeta descargada con XML + PDF. Overlay: \"4. El ZIP que tu contador ama\"."
+      },
+      {
+        "t": "36-42s",
+        "say": "Las cuatro están vivas en el producto. Pruébalo gratis desde el link de mi bio y dime cuál te quitó más horas.",
+        "show": "Talking head vertical, luz de ventana, sonriendo. Texto en pantalla: \"Prueba gratis · link en bio\" con flecha animada hacia arriba."
+      }
+    ],
+    "cta": "Entra al link de mi bio, activa la prueba gratis y cuéntame en comentarios cuál de las 4 te dolía más.",
+    "caption": "4 cosas de tu facturación que ya no tienen por qué ser manuales 👇 Captura de datos, cobranza, conciliación y el paquete de XML para tu contador. Todo esto ya corre en el producto: prueba gratis en el link de mi bio. ¿Cuál te quita más horas al mes? 👀",
+    "hashtags": [
+      "inteligenciaartificial",
+      "automatizacion",
+      "facturacion",
+      "cfdi",
+      "pymesmexico",
+      "aitools",
+      "contadores"
+    ],
+    "soundSuggestion": "Audio original: tu propia voz en off grabada con audífonos (el formato vive del VO, sin música con letra)",
+    "whyThisWorks": "Los videos de creator_113 y creator_39 explotan porque prometen una lista finita y copiable con demo en pantalla, no promesas vagas de IA; aquí ese mismo formato se aterriza en facturación mexicana, que es el hueco que creator_92 apenas empieza a ocupar en español.«"
+  },
+  {
+    "trendName": "Numbered AI Stack Drop",
+    "title": "Contadores 👀 necesitan estos 5 comandos",
+    "platform": "tiktok",
+    "format": "green-screen sobre screenshot del portal del SAT + overlays numerados",
+    "durationSec": 30,
+    "hook": "Contadores y ops en México 👀 necesitan estos 5 comandos para dejar de pelearse con el portal.",
+    "beats": [
+      {
+        "t": "0-3s",
+        "say": "Contadores y ops en México 👀 necesitan estos 5 comandos para dejar de pelearse con el portal.",
+        "show": "Green screen: yo de medio cuerpo sobre un screenshot del portal del SAT con el mensaje de error clásico. Texto en pantalla: \"5 COMANDOS · FACTURACIÓN\"."
+      },
+      {
+        "t": "3-9s",
+        "say": "Uno: FACTURA ESTO. Pegas el correo del cliente y sale el CFDI listo para timbrar, con su uso fiscal correcto.",
+        "show": "Cambio el fondo del green screen a un screenshot del chat del producto con el comando escrito. Overlay: \"1. FACTURA ESTO\"."
+      },
+      {
+        "t": "9-15s",
+        "say": "Dos: QUIÉN ME DEBE. Te tira la lista por días de atraso, de la más vieja a la más nueva. Sin abrir Excel.",
+        "show": "Fondo: screenshot de la tabla de cuentas por cobrar ordenada por días. Señalo con el dedo la fila más roja. Overlay: \"2. QUIÉN ME DEBE\"."
+      },
+      {
+        "t": "15-21s",
+        "say": "Tres: REVÍSALA. La IA te dice qué campo va a rebotar antes de que el SAT te lo rebote.",
+        "show": "Fondo: screenshot con una alerta amarilla sobre el campo de régimen fiscal. Cara de alivio exagerada. Overlay: \"3. REVÍSALA\"."
+      },
+      {
+        "t": "21-26s",
+        "say": "Cuatro: CIERRA EL MES. Todos los XML del periodo en una carpeta. Cinco: EXPLÍCAMELO, y te traduce el error fiscal a español de humanos.",
+        "show": "Fondo cambia dos veces rápido: carpeta con XML, luego chat explicando un error en lenguaje simple. Overlays: \"4. CIERRA EL MES\" y \"5. EXPLÍCAMELO\"."
+      },
+      {
+        "t": "26-30s",
+        "say": "Los cinco están dentro del producto. Prueba gratis en mi bio, y si quieres los números reales, cáete a mi newsletter de founders.",
+        "show": "Yo solo en cámara, fondo neutro, apuntando arriba. Texto en pantalla: \"Prueba gratis + newsletter · link en bio\"."
+      }
+    ],
+    "cta": "Link en bio: prueba gratis del producto y newsletter para founders con los números reales de cada mes.",
+    "caption": "5 comandos que le puedes dar a tu facturación en vez de pelearte con el portal 👀 FACTURA ESTO · QUIÉN ME DEBE · REVÍSALA · CIERRA EL MES · EXPLÍCAMELO. Todos viven dentro del producto: prueba gratis en el link de mi bio. ¿Cuál agregarías tú?",
+    "hashtags": [
+      "inteligenciaartificial",
+      "aiforbusiness",
+      "automatizacion",
+      "facturacion",
+      "sat",
+      "pymes",
+      "emprendedoresmexico"
+    ],
+    "soundSuggestion": "Audio original: voz en off propia, corte seco entre comandos (sin música con letra)",
+    "whyThisWorks": "Copia la mecánica del video de creator_87 —comandos nombrables con un payoff de una línea— pero en español y aplicados a CFDI y cobranza, que es donde el formato todavía no está saturado.«"
+  },
+  {
+    "trendName": "Por Favor Ya Paren Rant",
+    "title": "Por favor ya paren de mandar facturas en PDF por WhatsApp",
+    "platform": "all",
+    "format": "talking-head",
+    "durationSec": 28,
+    "hook": "Negocios pequeños de México: por favor ya paren de mandar la factura en PDF por WhatsApp.",
+    "beats": [
+      {
+        "t": "0-4s",
+        "say": "Negocios pequeños de México: por favor ya paren de mandar la factura en PDF por WhatsApp.",
+        "show": "Talking head, encuadre cerrado a la cara, luz de ventana, sin música. Texto en pantalla: 'PDF por WhatsApp = NO ES FACTURA'."
+      },
+      {
+        "t": "4-11s",
+        "say": "El PDF no es la factura. La factura es el XML. Ese PDF bonito con tu logo no lo puede deducir nadie, y tu cliente te va a escribir el 30 a las once de la noche pidiendo 'el archivito bueno'.",
+        "show": "Misma toma. Levanto el celular con un chat de WhatsApp lleno de PDFs y hago scroll frente a la cámara. Texto: 'el archivito bueno 😐'."
+      },
+      {
+        "t": "11-18s",
+        "say": "Y lo peor: nadie sabe quién ya pagó. Tienes el cobro en un Excel, el comprobante en el chat, y el XML perdido en un correo que ya ni existe. Eso no es administración, es arqueología.",
+        "show": "Corte rápido de b-roll: Excel desordenado en la laptop, luego un correo con 200 adjuntos. Vuelvo a la cara para 'arqueología'."
+      },
+      {
+        "t": "18-24s",
+        "say": "Ya hay forma de que la factura se genere sola cuando cierras la venta, con el XML y el PDF juntos, y que el recordatorio de cobro salga sin que tú lo escribas. En serio. Ya no estamos en 2014.",
+        "show": "Green-screen corto sobre screenshot del producto: fila de facturas con estatus 'Timbrada' y 'Pagada'. Señalo con el dedo el XML."
+      },
+      {
+        "t": "24-28s",
+        "say": "Pruébalo gratis, el link está en mi perfil. Y si eres founder, cáete a mi newsletter donde enseño los números reales.",
+        "show": "Vuelta a talking head, señalo arriba. Texto en pantalla: 'Prueba gratis + newsletter → link en bio'."
+      }
+    ],
+    "cta": "Prueba gratis el producto desde el link en bio y suscríbete al newsletter para founders.",
+    "caption": "El PDF no es la factura, mi ciclo. Es el XML. Y tu cliente lo va a pedir el día 30 a las 11 pm. Prueba gratis en el link de mi bio 👆",
+    "hashtags": [
+      "#facturacion",
+      "#pymesmexico",
+      "#cfdi",
+      "#ai",
+      "#smallbusiness",
+      "#emprendedoresmexico",
+      "#sat"
+    ],
+    "soundSuggestion": "original sound (voz del creador, sin música)",
+    "whyThisWorks": "Copia la estructura de creator_42 e creator_79 —talking-head irritado, encuadre cerrado, sin música, señalando una práctica concreta que la audiencia misma comete— pero aterrizada en el dolor real del SMB mexicano: PDF vs XML. La molestia compartida es lo que hizo que esos videos llegaran a 10-17% de ER con cuentas chicas.-"
+  },
+  {
+    "trendName": "Por Favor Ya Paren Rant",
+    "title": "El chatbot que 'te ayuda' y no sabe timbrar un CFDI",
+    "platform": "all",
+    "format": "green-screen over a screenshot + POV skit",
+    "durationSec": 34,
+    "hook": "Un bot me dice 'con gusto te ayudo con tu factura' y me quieren hacer creer que eso es servicio al cliente.",
+    "beats": [
+      {
+        "t": "0-4s",
+        "say": "Un bot me dice 'con gusto te ayudo con tu factura' y me quieren hacer creer que eso es servicio al cliente.",
+        "show": "Green-screen sobre screenshot de un chat de soporte con respuesta robótica. Mi cara en esquina, encuadre cerrado, ceja levantada. Texto: 'con gusto te ayudo ✨'."
+      },
+      {
+        "t": "4-12s",
+        "say": "Le pongo mi RFC. Me contesta con un emoji. Le pregunto por el uso de CFDI y me manda un link a preguntas frecuentes. Le digo 'quiero hablar con una persona' y me dice 'entiendo tu frustración'. No la entiendes, eres un bot.",
+        "show": "Sigo en green-screen, hago scroll sobre el screenshot señalando cada respuesta con el dedo. Corte seco en 'eres un bot'."
+      },
+      {
+        "t": "12-20s",
+        "say": "Negocios pequeños, por favor ya paren de poner un bot genérico a atender facturación. Un bot que no sabe qué es un régimen fiscal ni un complemento de pago no está ahorrándote tiempo: te está costando clientes.",
+        "show": "Salgo del green-screen a talking head, encuadre cerrado. Texto en pantalla: 'BOT ≠ ATENCIÓN'."
+      },
+      {
+        "t": "20-28s",
+        "say": "La IA sí sirve, pero para lo aburrido: leer el ticket, sacar los datos fiscales, generar el XML, mandar el recordatorio de cobro. Lo que no debe hacer es fingir que es humana mientras tu cliente se desespera.",
+        "show": "Screen recording del producto: subo un ticket, la IA rellena RFC y uso de CFDI, se timbra. Voz en off encima. Texto: 'esto sí, lo otro no'."
+      },
+      {
+        "t": "28-34s",
+        "say": "Si quieres ver cómo se ve eso en tu negocio, hay prueba gratis en el link de mi bio. Y en mi newsletter para founders subo los números sin filtro.",
+        "show": "Talking head final, sonrisa corta, señalo arriba. Texto en pantalla: 'Prueba gratis 👆 + newsletter para founders'."
+      }
+    ],
+    "cta": "Entra al link en bio para la prueba gratis y suscríbete al newsletter para founders.",
+    "caption": "'Entiendo tu frustración' — no, no la entiendes, eres un bot que no sabe timbrar un CFDI. Usa la IA para lo aburrido, no para fingir que es humana. Prueba gratis en bio.",
+    "hashtags": [
+      "#ai",
+      "#customerservice",
+      "#facturacionelectronica",
+      "#pymesmexico",
+      "#smallbusiness",
+      "#cfdi",
+      "#founders"
+    ],
+    "soundSuggestion": "original sound (voz del creador, sin música)",
+    "whyThisWorks": "Usa la variante green-screen sobre el screenshot ofensivo que el trend ya contempla y el enojo por 'AI slop customer service' que llevó a creator_79 a 17.5% de ER con menos de 2k seguidores. El giro es que Santiago defiende la IA bien usada, lo que hace que el rant termine vendiendo su producto sin sonar a anuncio."
+  },
+  {
+    "trendName": "Stop Being Your Own Back Office",
+    "title": "Deja de capturar facturas a mano: 38 segundos de CFDI en automático",
+    "platform": "youtube",
+    "format": "screen-recording + voiceover",
+    "durationSec": 38,
+    "hook": "Deja de capturar facturas una por una. Mira lo que pasa cuando la IA timbra sola:",
+    "beats": [
+      {
+        "t": "0-4s",
+        "say": "Deja de capturar facturas una por una. Mira lo que pasa cuando la IA timbra sola:",
+        "show": "Screen recording en vertical: pantalla dividida improvisada — a la izquierda un Excel de clientes lleno de celdas, a la derecha el dashboard limpio del producto. Texto en pantalla: 'Cero captura manual'."
+      },
+      {
+        "t": "4-11s",
+        "say": "Arrastro el PDF de la orden de compra del cliente. Nada más eso. Ni RFC, ni régimen fiscal, ni uso de CFDI a mano.",
+        "show": "Grabación de pantalla: el cursor arrastra un PDF al recuadro de carga. Se ve la barra de progreso. Zoom suave con el dedo sobre el área de drop."
+      },
+      {
+        "t": "11-19s",
+        "say": "La IA lee el documento, jala el RFC del cliente, completa el uso de CFDI y calcula el IVA. Yo solo reviso.",
+        "show": "Screen recording continuo: los campos se autollenan uno por uno. Resaltar con el cursor RFC, uso de CFDI e IVA. Texto en pantalla: 'Lo llenó la IA, no yo'."
+      },
+      {
+        "t": "19-27s",
+        "say": "Un clic y se timbra ante el SAT. PDF y XML salen por correo al cliente en el mismo movimiento.",
+        "show": "Clic en 'Timbrar'. Se ve el folio fiscal y el estatus 'Timbrada'. Corte al correo enviado con los adjuntos PDF y XML visibles."
+      },
+      {
+        "t": "27-33s",
+        "say": "Lo que me tomaba cuatro minutos por factura ahora tarda catorce segundos. Y no, no inventé el dato: está en el cronómetro de la esquina.",
+        "show": "Zoom al cronómetro corriendo en la esquina de la pantalla mostrando 00:14. Texto en pantalla: '4 min → 14 seg'."
+      },
+      {
+        "t": "33-38s",
+        "say": "Si tú eres el back office de tu propia empresa, prueba la versión gratis con el link de abajo y deja de teclear datos fiscales.",
+        "show": "Tarjeta final estática: logo, texto 'Prueba gratis — link en la descripción' y debajo 'Newsletter para founders'. Flecha apuntando hacia abajo."
+      }
+    ],
+    "cta": "Activa la prueba gratis con el link de la descripción y suscríbete al newsletter para founders.",
+    "caption": "Cuatro minutos por factura, multiplicado por 80 facturas al mes. Esa era mi vida hace un año. En este short te muestro el flujo completo sin cortes: arrastro el PDF del cliente, la IA extrae RFC, uso de CFDI e IVA, y se timbra ante el SAT en un clic. Sin plantillas, sin copiar y pegar del Excel. Prueba gratis en el link y newsletter para founders que odian la chamba administrativa. #facturacionelectronica #cfdi #sat #pymesmexico #ai #accountingsoftware #automatizacion",
+    "hashtags": [
+      "facturacionelectronica",
+      "cfdi",
+      "sat",
+      "pymesmexico",
+      "ai",
+      "accountingsoftware",
+      "automatizacion"
+    ],
+    "soundSuggestion": null,
+    "whyThisWorks": "Copia la estructura que le dio a creator_23 1.46M vistas desde un canal de 6K: un solo flujo de trabajo mostrado en una toma continua, sin música, con la tarjeta de prueba gratis al final. Mantiene un único workflow visible (captura → timbrado) para que funcione como contenido de utilidad buscable en YouTube, no como entretenimiento de feed."
+  },
+  {
+    "trendName": "Stop Being Your Own Back Office",
+    "title": "Deja de perseguir clientes morosos por WhatsApp",
+    "platform": "youtube",
+    "format": "green-screen over a screenshot",
+    "durationSec": 32,
+    "hook": "Deja de perseguir a tus clientes morosos por WhatsApp. Mira lo que pasa cuando la IA cobra sola:",
+    "beats": [
+      {
+        "t": "0-4s",
+        "say": "Deja de perseguir a tus clientes morosos por WhatsApp. Mira lo que pasa cuando la IA cobra sola:",
+        "show": "Green screen: Santiago de medio cuerpo, teléfono en tripié, encima un screenshot real de un chat con tres 'te paso el pago mañana' sin respuesta. Nombres tapados con emoji. Texto en pantalla: 'Cuentas por cobrar: $214,000'."
+      },
+      {
+        "t": "4-12s",
+        "say": "Este era mi viernes: entrar a la cuenta de banco, ver quién no pagó, y escribir el mensajito incómodo cliente por cliente.",
+        "show": "Sigue en green screen; Santiago señala con el dedo el chat detrás de él, cambia el screenshot a un estado de cuenta con saldos pendientes resaltados en rojo."
+      },
+      {
+        "t": "12-21s",
+        "say": "Ahora la IA cruza la factura timbrada con el depósito que entró al banco. Si no llegó, ella manda el recordatorio: a los tres días amable, a los diez días firme. Con el link de pago pegado.",
+        "show": "Cambia el fondo al screenshot del panel de cobranza del producto: columna 'Pagada', 'Vencida', 'Recordatorio enviado'. Santiago mueve la mano para ir marcando cada columna."
+      },
+      {
+        "t": "21-27s",
+        "say": "Yo solo veo el resultado el lunes. No prometo que cobres más rápido, pero yo dejé de ser el cobrador de mi propia empresa.",
+        "show": "Fondo cambia a screenshot de notificaciones 'Pago recibido' con montos difuminados. Santiago encoge los hombros, sonrisa."
+      },
+      {
+        "t": "27-32s",
+        "say": "Actívalo en tu cuenta con la prueba gratis del link, y si quieres el detrás de cámara del producto, ahí está el newsletter.",
+        "show": "Corte a tarjeta final: fondo sólido, texto 'Prueba gratis — link en la descripción' arriba y 'Newsletter para founders' abajo, con el logo centrado."
+      }
+    ],
+    "cta": "Empieza la prueba gratis desde el link de la descripción y súbete al newsletter para founders.",
+    "caption": "Perseguir pagos por WhatsApp no es un trabajo, es un castigo. Aquí te enseño cómo el módulo de cobranza cruza la factura timbrada contra el depósito bancario y manda los recordatorios solo: suave a los 3 días, firme a los 10, siempre con link de pago. Sin hojas de cálculo de morosos. Prueba gratis en el link y newsletter para founders que quieren dejar de hacer de back office. #facturacionelectronica #cuentasporcobrar #pymesmexico #smallbusiness #ai #fintechlatam #cfdi",
+    "hashtags": [
+      "facturacionelectronica",
+      "cuentasporcobrar",
+      "pymesmexico",
+      "smallbusiness",
+      "ai",
+      "fintechlatam",
+      "cfdi"
+    ],
+    "soundSuggestion": null,
+    "whyThisWorks": "Toma el mismo ángulo de 'deja de ser tu propio back office' que Beyond The Trades usó con la persecución de facturas, pero en formato green-screen para que Santiago le ponga cara y credibilidad de founder. El screenshot real como fondo cumple la promesa de demo que hace que estos videos conviertan en YouTube, manteniendo un solo workflow visible."
+  }
+]

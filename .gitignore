@@ -1,0 +1,15 @@
+node_modules/
+.env
+.DS_Store
+
+# your personal profile (copy config/profile.example.json)
+config/profile.json
+
+# pipeline output
+data/
+output/
+!data/.gitkeep
+!output/.gitkeep
+
+# local agent/workspace scratch
+.context/

@@ -1,0 +1,205 @@
+{
+  "overview": "The sample splits into two economies: broad Spanish-language business/finance content on TikTok that wins on personality and pace (median ER ~6%, top clusters #emprendedores, #ventas, #emprendimiento at 9-20% ER), and utility content on YouTube where plain product demos and compliance explainers rack up enormous outlier factors from tiny channels (creator_23: 30s, 1.46M views, 243x outlier from a 6K-sub channel). The best-performing AI content is not 'AI is amazing' — it's concrete: numbered tool/prompt stacks, screen-recorded workflows, and contrarian reality-checks about what AI actually saves you. Regulatory deadlines around facturación electrónica are an under-served, high-outlier vein: small accounts in AR, CO, CL, FR and MX are getting 10-1600x outlier reach on 'a partir de [fecha] tienes que...' explainers with almost no production value. Duration is bimodal: 15-40s for hooks/rants, 60-120s for explainers; the 20-45s target window is exactly where the short lane is least crowded in Spanish.",
+  "trends": [
+    {
+      "name": "Numbered AI Stack Drop",
+      "summary": "Creators list N concrete things you can build or N prompt commands, each with a one-line payoff, delivered fast over a screen recording or B-roll of the tool. It works because it promises a finite, copyable artifact instead of vague 'AI will change your business' talk — and it's spreading from English AI accounts into Spanish (creator_92). Strongest on TikTok, but the same script ports to Shorts.",
+      "format": "talking-head or screen-recording + voiceover with on-screen numbered text overlays",
+      "hookPattern": "'[Number] cosas que puedes [construir/automatizar] con [herramienta] este fin de semana' / '[Audience] 👀 necesitas estos [N] [prompts/comandos]'",
+      "evidenceVideoIds": [
+        "demo-025",
+        "demo-039",
+        "demo-037",
+        "demo-087"
+      ],
+      "signals": {
+        "hashtags": [
+          "ai",
+          "claudeai",
+          "aitools",
+          "aiforbusiness",
+          "aiautomation",
+          "inteligenciaartificial",
+          "automatizacion"
+        ],
+        "sounds": [
+          "original sound (creator VO)"
+        ],
+        "typicalDurationSec": 55
+      },
+      "momentum": "peaking",
+      "fitForProfile": 9,
+      "fitReason": "Perfect match for screen-recording + voiceover and the 'shows real product' positioning. Santiago can do '4 cosas que tu contador ya no debería hacer a mano' and demo his own product inside item 3 or 4 without it reading as an ad. Only risk: this format is crowded in English, so the Spanish + facturación angle is his edge."
+    },
+    {
+      "name": "Día N Construyendo Esto",
+      "summary": "Serialized build-in-public diary: the creator numbers the day, shows the unglamorous reality (packing orders, a bad sales call, the workshop at 11pm) and ends on a small win or a cliffhanger. creator_36's 'Día 19 como emprendedor' pulled 1.7M views at 20.8% ER and creator_84 monetizes the 'para los que dicen que fue fácil' emotional frame. This is the highest-engagement pattern in the Spanish sample and it's entirely TikTok-native.",
+      "format": "handheld talking-head / vlog cut with real workspace footage, creator VO",
+      "hookPattern": "'Día [N] [construyendo/como] [cosa]: hoy [problema concreto]...'",
+      "evidenceVideoIds": [
+        "demo-094",
+        "demo-062",
+        "demo-029",
+        "demo-038"
+      ],
+      "signals": {
+        "hashtags": [
+          "emprendedor",
+          "emprendedores",
+          "emprendimiento",
+          "ventas",
+          "emprender",
+          "parati"
+        ],
+        "sounds": [
+          "sonido original",
+          "Beauty and a Beat"
+        ],
+        "typicalDurationSec": 80
+      },
+      "momentum": "peaking",
+      "fitForProfile": 8,
+      "fitReason": "Directly matches 'founder building an AI-first fintech, candid, shows real numbers' and builds a returning audience rather than one-off views. Two caveats: the winning versions run 60-90s (above his 20-45s target) and this pattern rewards consistency — it only compounds if he commits to a numbered series for 30+ episodes."
+    },
+    {
+      "name": "Deadline Panic Explainer",
+      "summary": "A small account states a compliance date and who it hits, then explains the one thing you must do — no intro, no branding. Across creator_51 (monotributo, Nov 2026), creator_120 (Ley de Economía Digital MX), and several e-invoicing mandates in FR/CO/CL, tiny channels post absurd outlier factors (11x to 1,630x) because search demand massively exceeds supply in each local market. Cross-platform, but the YouTube versions get long-tail search traffic for months.",
+      "format": "straight talking-head or green-screen over the official document/screenshot",
+      "hookPattern": "'Si eres [tipo de contribuyente], a partir de [fecha] tienes que [obligación] — te explico en 40 segundos'",
+      "evidenceVideoIds": [
+        "demo-081",
+        "demo-065",
+        "demo-113",
+        "demo-128",
+        "demo-127"
+      ],
+      "signals": {
+        "hashtags": [
+          "factura",
+          "facturacionelectronica",
+          "monotributo",
+          "finanzasmexico",
+          "pagosdigitales",
+          "mexico"
+        ],
+        "sounds": [
+          "original sound (creator VO)"
+        ],
+        "typicalDurationSec": 60
+      },
+      "momentum": "emerging",
+      "fitForProfile": 10,
+      "fitReason": "Highest-leverage lane for him: es-MX, SAT/CFDI changes, green-screen over an SAT screenshot, 30-45s. It's the exact intersection of his product and his audience's anxiety, it ranks on YouTube search, and it earns trust before any pitch. Just state facts and dates — never frame it as guaranteed savings or advice."
+    },
+    {
+      "name": "Por Favor Ya Paren Rant",
+      "summary": "A short, irritated talking-head calling out a specific bad practice — AI slop customer service, generic AI-written copy, fake 'human' chatbots. creator_42 and creator_79 both hit 10-17% ER with sub-30k and sub-2k follower accounts; [brand] runs the long-form version. The emotion travels because the audience is the same SMB owners doing the thing.",
+      "format": "talking-head, tight framing, no music, sometimes green-screen over the offending screenshot",
+      "hookPattern": "'Negocios pequeños, por favor ya paren de [práctica específica]' / '[Cosa] y me quieren hacer creer que...'",
+      "evidenceVideoIds": [
+        "demo-040",
+        "demo-070",
+        "demo-103"
+      ],
+      "signals": {
+        "hashtags": [
+          "ai",
+          "smallbusiness",
+          "marketing",
+          "customerservice"
+        ],
+        "sounds": [
+          "original sound (creator VO)"
+        ],
+        "typicalDurationSec": 20
+      },
+      "momentum": "emerging",
+      "fitForProfile": 9,
+      "fitReason": "Tailor-made for 'candid, slightly irreverent, no corporate jargon' and lands inside 15-30s. Santiago can rant about PDF invoices sent by WhatsApp, facturas pedidas a fin de mes, or chatbots that can't issue a CFDI. Keep it aimed at practices, not named competitors, and it's low-risk high-shareability."
+    },
+    {
+      "name": "Stop Being Your Own Back Office",
+      "summary": "Pure product demo framed as pain relief: name the manual chore, show the software doing it in one take, end with a free trial. creator_23 did 1.46M views in 30 seconds from a 6K-sub channel (243x outlier) and Beyond The Trades, [brand] and [brand] run the same structure. This is YouTube-dominant — these perform as searchable/suggested utility content, not as feed entertainment.",
+      "format": "screen-recording + voiceover, single continuous workflow, CTA card at the end",
+      "hookPattern": "'Deja de [tarea manual aburrida]. Mira lo que pasa cuando [herramienta] lo hace solo:'",
+      "evidenceVideoIds": [
+        "demo-109",
+        "demo-105",
+        "demo-124",
+        "demo-116",
+        "demo-002"
+      ],
+      "signals": {
+        "hashtags": [
+          "facturacionelectronica",
+          "smallbusiness",
+          "accountingsoftware",
+          "ai"
+        ],
+        "sounds": [
+          "no trending audio — VO only"
+        ],
+        "typicalDurationSec": 38
+      },
+      "momentum": "peaking",
+      "fitForProfile": 9,
+      "fitReason": "His single best conversion format and it fits the free-trial offer natively. Note the trade-off: engagement rate on these is near zero — they convert, they don't spread. Run them as the YouTube Shorts backbone while TikTok carries the personality formats, and keep it to one visible workflow per video."
+    },
+    {
+      "name": "La IA No Te Ahorró Nada, Mira El Dato",
+      "summary": "Contrarian reality-check: open with a counterintuitive statistic about AI at work, then explain why the 'saved time' disappeared. creator_111 frames it as a question to the viewer ('¿te pasa lo mismo?'), which is what drives the comment engine; creator_55 runs the same structure on a fintech security story. Still thin in Spanish — two creators — which is precisely why it's open.",
+      "format": "talking-head with a single stat card on screen, ends on a direct question",
+      "hookPattern": "'[Grupo] ahorró [N] horas con IA... y ni una se la quedaron. Te explico a dónde se fueron.'",
+      "evidenceVideoIds": [
+        "demo-091",
+        "demo-074",
+        "demo-082"
+      ],
+      "signals": {
+        "hashtags": [
+          "ia",
+          "trabajo",
+          "aitoolsforbusiness",
+          "fintech",
+          "finanzas"
+        ],
+        "sounds": [
+          "Palm Shade Drift",
+          "Chopin Nocturne No. 2 Piano Mono",
+          "original sound"
+        ],
+        "typicalDurationSec": 70
+      },
+      "momentum": "emerging",
+      "fitForProfile": 8,
+      "fitReason": "Great credibility play for an AI-first founder — being the person who says where AI fails is more persuasive than hyping it, and it suits his direct tone. Needs real sourcing (a report, his own product telemetry) or it collapses into opinion; compress to 35-40s since the sampled versions run long."
+    },
+    {
+      "name": "Mis Números Del Mes",
+      "summary": "Creator opens the ledger for a period — what was bought, spent or earned, and the reasoning behind each line. On TikTok this is dominated by investing accounts (creator_97, creator_80, creator_41) and the pattern is mature: steady views but outlier factors under 1, meaning it performs at, not above, channel baseline.",
+      "format": "talking-head with screen-recording of the dashboard/statement, itemized on-screen list",
+      "hookPattern": "'Este mes [gasté/facturé] $[cantidad] en [X]. Te enseño en qué y por qué.'",
+      "evidenceVideoIds": [
+        "demo-045",
+        "demo-055",
+        "demo-048",
+        "demo-058"
+      ],
+      "signals": {
+        "hashtags": [
+          "finanzas",
+          "educacionfinanciera",
+          "inversiones",
+          "bolsadevalores"
+        ],
+        "sounds": [
+          "original sound (creator VO)"
+        ],
+        "typicalDurationSec": 115
+      },
+      "momentum": "saturated",
+      "fitForProfile": 5,
+      "fitReason": "His 'shows real numbers' positioning fits the transparency, but the dominant version of this pattern is investment-return content that sits right on his avoid list and is saturated by finfluencers with bigger followings. Only worth running if he flips it entirely to business metrics — MRR, CAC, horas de facturación ahorradas, costo de infra — with zero return promises."
+    }
+  ]
+}
